@@ -43,7 +43,7 @@ export default function WelcomeScreen({ onNext }) {
                                 filter: "drop-shadow(0 4px 8px rgba(0,0,0,0.3))"
                             }}
                         >
-                            Hello, my
+                            Hello, my 1 of the
                         </motion.span>
 
                         <motion.span
@@ -59,7 +59,7 @@ export default function WelcomeScreen({ onNext }) {
                             }}
                             transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
                         >
-                            Beautiful Sister
+                           Most Beautiful Sister
                         </motion.span>
 
                         <motion.span className="inline-block ml-2">💖</motion.span>
@@ -67,7 +67,7 @@ export default function WelcomeScreen({ onNext }) {
 
                     <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }} className="space-y-6 mt-8">
                         <p className="text-rose-200 text-2xl md:text-3xl font-medium">
-                            I’ve made something really special just for you...
+                            I have made something really special just for you...Ankita ji...💙
                         </p>
                     </motion.div>
                 </motion.div>
