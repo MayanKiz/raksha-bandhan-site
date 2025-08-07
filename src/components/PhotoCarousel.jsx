@@ -15,19 +15,19 @@ export default function PhotoCarousel({ onNext }) {
     const photos = [
         {
             id: 1,
-            src: "/images/1.jpg",
+            src: "https://envs.sh/QrI.jpg/IMG20250807490.jpg",
         },
         {
             id: 2,
-            src: "/images/2.jpg",
+            src: "https://envs.sh/QrT.jpg/IMG20250807160.jpg",
         },
         {
             id: 3,
-            src: "/images/3.jpg",
+            src: "https://envs.sh/Qrj.jpg/IMG20250807708.jpg",
         },
         {
             id: 4,
-            src: "/images/4.jpg",
+            src: "https://envs.sh/Qrv.jpg/IMG2025080746.jpg",
         },
     ]
 
