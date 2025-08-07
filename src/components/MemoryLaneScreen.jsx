@@ -9,14 +9,14 @@ export default function MemoryLaneScreen({ onNext }) {
 
     const memories = [
         {
-            title: "Remember our childhood days?",
-            description: "Fighting over toys, but never letting anyone else mess with us",
+            title: "Our childhood days?",
+            description: "Waise mughey kuch yaad hi nhi haiii yarrr kya boluuu 🥲",
             emoji: "👶",
             color: "#fb7185",
         },
         {
-            title: "Our secret midnight adventures",
-            description: "Sneaking to the kitchen for late night snacks together",
+            title: "Our secret adventures",
+            description: "late night adventure, there in the village near the water tank, I scare you by shouting bhoot-bhoot ", 
             emoji: "🍪",
             color: "#a855f7",
         },
@@ -34,7 +34,7 @@ export default function MemoryLaneScreen({ onNext }) {
         },
         {
             title: "You being my best friend",
-            description: "The person I can always count on, no matter what",
+            description: "I want a friend to whom I can say everything without any hesitation ",
             emoji: "💕",
             color: "#f97316",
         },
