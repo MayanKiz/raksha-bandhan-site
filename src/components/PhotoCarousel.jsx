@@ -53,7 +53,7 @@ export default function PhotoCarousel({ onNext }) {
                 className="text-center mb-12"
             >
                 <h2 className="text-5xl md:text-6xl font-bold text-rose-100 mb-4" style={{ textShadow: "0 0 15px rgba(251, 113, 133, 0.3)" }}>
-                    Flashback of Us 📸
+                    Flashback of yours 📸
                 </h2>
                 <p className="text-rose-200/80 text-xl">From silly fights to endless laughs, here’s our little journey</p>
             </motion.div>
