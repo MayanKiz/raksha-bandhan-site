@@ -11,16 +11,30 @@ export default function FinalMessage() {
 
     const message = `Dear Sister,
 
-    On this Raksha Bandhan, I just want to say how lucky I am to have you in my life. You've always been there with your love, support, and those little moments that mean the world to me.
-    
-    From silly fights to fun memories, every moment with you has been special. You're not just my sister, but also a friend I can always count on.
-    
-    Thanks for being you. Wishing you all the happiness and success you deserve.
-    
-    Happy Raksha Bandhan!
-    
-    With lots of love,  
-    Your Brother ✨`
+    🩵 Ankita (Sunaina), 🌸
+
+Aap se baat-cheet zyada purani toh nahi hai,
+sirf kuch saal hi hue properly connect hue...
+lekin iss chhoti si journey ne hi ek alag sa rishta bana diya.
+
+Shayad pehle hum utne close nahi the,
+lekin aaj aap ek aise insaan ban chuke hain
+jinke saath baat karke ek sukoon milta hai.
+Aap sagi behen toh nahi hain,
+lekin jo izzat aur feeling aapke liye hai,
+wo kisi rishte se kam nahi. 🙏
+
+Aap hamesha khush rahen,
+aapke sapne pure hoo,
+aur zindagi me safal ho —
+yehi dil se dua karta hoon. 🌼
+
+Happy Raksha Bandhan, Sunaina.
+Aap jaise log kam milte hain —
+aur mujhe khushi hai ki aap meri life me hain...
+
+Your Brother,
+Mayank Yadav
 
 
     const titleWords = ["Happy", "Raksha", "Bandhan!"]
