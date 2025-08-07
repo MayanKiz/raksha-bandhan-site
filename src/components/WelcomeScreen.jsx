@@ -43,7 +43,7 @@ export default function WelcomeScreen({ onNext }) {
                                 filter: "drop-shadow(0 4px 8px rgba(0,0,0,0.3))"
                             }}
                         >
-                            Hello, my 1 of the
+                            Aaiye...
                         </motion.span>
 
                         <motion.span
@@ -59,7 +59,7 @@ export default function WelcomeScreen({ onNext }) {
                             }}
                             transition={{ duration: 8, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
                         >
-                           Most Beautiful Sister
+                           Merii Most Beautiful Sister
                         </motion.span>
 
                         <motion.span className="inline-block ml-2">💖</motion.span>
