@@ -34,7 +34,7 @@ Aap jaise log kam milte hain —
 aur mujhe khushi hai ki aap meri life me hain...
 
 Your Brother,
-Mayank Yadav
+Mayank Yadav`
 
 
     const titleWords = ["Happy", "Raksha", "Bandhan!"]
